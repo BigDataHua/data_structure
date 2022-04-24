@@ -6,4 +6,9 @@ package com.xiaohua.tixiclass.class04;
  * @create 2022-04-19 21:58
  */
 public class TwoNumSum {
+
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
+
 }
